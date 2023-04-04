@@ -1,0 +1,72 @@
+{
+  "CheckAllResults": false,
+  "ShowIncorrectResults": false,
+  "Projects": [
+    {
+      "Directory": "AbishekAditya/AdapterPattern",
+      "ImplementedPattern": "Adapter"
+    },
+    {
+      "Directory": "AbishekAditya/BridgePattern",
+      "ImplementedPattern": "Bridge"
+    },
+    {
+      "Directory": "AbishekAditya/DecoratorPattern",
+      "ImplementedPattern": "Decorator",
+      "Skip": true
+    },
+    {
+      "Directory": "AbishekAditya/FactoryPattern/Factory Method",
+      "ImplementedPattern": "FactoryMethod"
+    },
+    {
+      "Directory": "AbishekAditya/ObserverPattern",
+      "ImplementedPattern": "Observer"
+    },
+    {
+      "Directory": "AbishekAditya/SingletonPattern",
+      "ImplementedPattern": "Singleton"
+    },
+    {
+      "Directory": "AbishekAditya/StatePattern",
+      "ImplementedPattern": "State"
+    },
+    {
+      "Directory": "AbishekAditya/StrategyPattern",
+      "ImplementedPattern": "Strategy"
+    },
+    {
+      "Directory": "WesDoyle/StructuralPatterns/Adapter",
+      "ImplementedPattern": "Adapter"
+    },
+    {
+      "Directory": "WesDoyle/StructuralPatterns/Bridge",
+      "ImplementedPattern": "Bridge"
+    },
+    {
+      "Directory": "WesDoyle/StructuralPatterns/Decorator",
+      "ImplementedPattern": "Decorator"
+    },
+    {
+      "Directory": "WesDoyle/CreationalPatterns/FactoryMethod",
+      "ImplementedPattern": "FactoryMethod"
+    },
+    {
+      "Directory": "WesDoyle/BehavioralPatterns/Observer",
+      "ImplementedPattern": "Observer"
+    },
+    {
+      "Directory": "WesDoyle/CreationalPatterns/Singleton",
+      "ImplementedPattern": "Singleton"
+    },
+    {
+      "Directory": "WesDoyle/BehavioralPatterns/State",
+      "ImplementedPattern": "State"
+    },
+    {
+      "Directory": "WesDoyle/BehavioralPatterns/Strategy",
+      "ImplementedPattern": "Strategy",
+      "Skip": true
+    }
+  ]
+}
