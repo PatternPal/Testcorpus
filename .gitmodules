@@ -1,0 +1,6 @@
+[submodule "AbishekAditya"]
+	path = AbishekAditya
+	url = https://github.com/abishekaditya/DesignPatterns.git
+[submodule "WesDoyle"]
+	path = WesDoyle
+	url = https://github.com/wesdoyle/design-patterns-explained-with-food.git
